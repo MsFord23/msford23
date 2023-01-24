@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello my name is DyEasha👋
 
 <!--
 **MsFord23/msford23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
