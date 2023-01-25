@@ -1,4 +1,4 @@
-<h1>Hi, I'm DyEasha, an <a href="https://www.linkedin.com/in/dyeasha-ford-76a600186/">IT Professional</a>☺</h1>
+<h1>Hi, I'm DyEasha, an <a href="https://www.linkedin.com/in/dyeasha-ford-76a600186/">IT Professional 🤜 🤛
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
